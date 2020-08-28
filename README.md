@@ -21,8 +21,7 @@ The following pie chart is showing the percentage of total rides categorized by 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68669675/91503794-04ffdb00-e891-11ea-9f18-f50df637ddd4.png">
 </p>
-We can see that more than 2/3 of the total rides in 2019 were realized in urban cities. Suburban areas count for over 26% of the total rides and rural cities only for 5.3%.<br/>
-Great influence of urban area. blablablala<br/><br/>
+More than 2/3 of the total rides in 2019 were realized in urban cities. Suburban areas count for over 26% of the total rides and rural cities only for 5.3%.<br/><br/>
 
 ### The total drivers by city type
 The following pie chart is showing the percentage of total drivers categorized by the different city types.
@@ -30,4 +29,13 @@ The following pie chart is showing the percentage of total drivers categorized b
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68669675/91503795-05987180-e891-11ea-91ea-4bc35338b4e1.png">
 </p>
-Urban cities drivers are 80.9% of the company fleet  
+Urban cities drivers were 80.9% of the company's drivers force in 2019. Surbuban and rural drivers were respectively 26.3% and 5.3% of the total drivers in 2019.<br/><br/>
+
+### The total fares by city type
+The following pie chart is showing the percentage of total fares categorized by the different city types.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/68669675/91503793-04ffdb00-e891-11ea-9cf2-2efd30310cd2.png">
+</p>
+------
+
